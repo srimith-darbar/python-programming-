@@ -15,7 +15,6 @@ while(x<=6):
     	break
     elif guess<n:
         print("your guess is low")
-        x+=1
-    elif guess<n:
+    elif guess>n:
         print("your guess is high")
-        x+=1
+    x+=1
