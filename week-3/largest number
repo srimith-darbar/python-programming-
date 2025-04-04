@@ -1,0 +1,22 @@
+def large(li):
+    big=li[0]
+    for i in range(1,len(li)):
+            if li[i]>big:
+                    big=li[i]
+    return big
+    
+def print_list(li):
+         for i in li:
+             print(i,end=' ')
+
+elements=[]
+limit=int(input("enter the limit in list"))
+for i in range(limit):
+    temp=int(input("enter"))
+    elements.append(temp)
+print("element in the list are")
+print_list
+
+print()
+
+print("the largest element is =",largest(elements))
