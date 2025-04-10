@@ -22,7 +22,7 @@ for i in range(n3):
     
 def creat_list(l,n):
     for i in range(n):
-        tenp=int(input())
+        temp=int(input())
         l.append(temp)
     return l
     
