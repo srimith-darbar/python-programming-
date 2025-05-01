@@ -1,0 +1,41 @@
+#  Tring1="HELLO universe"
+# print(Tring1[0])
+# print(Tring1[7])
+# print(Tring1)
+# print(Tring1[0:5])
+# print(Tring1[:5])
+# print(Tring1[::])
+# Tring2='bolouniverse'
+# # adding of strings
+# tring= Tring1 + ' ' + Tring2 adding strings
+# print(tring)
+# length=len(Tring1)
+# print(length)
+# # printing the string only in small letters
+# print(Tring1.lower())
+# # printing the string only in big letters
+# print(Tring1.upper())
+# # printing the string avoiding spaces
+# print(Tring1.strip())
+
+
+# name = "sandeep"
+# age = 19
+# formatted_string = "My name is {} and I am {} years old.".format(name, age)
+# print(formatted_string) 
+
+# num=19
+# total=(num*3)
+# print(total)
+
+
+
+
+
+
+
+
+
+
+
+
